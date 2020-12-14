@@ -6,6 +6,7 @@
 let app = new Vue({
   el: "#root",
   data: {
-    text: "prova con vue"
-  }
+    text: "prova con vue",
+    image: "https://www.ilfaroonline.it/photogallery_new/images/2019/12/roma-117258.660x368.jpg"
+  },
 })
